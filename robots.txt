@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://certotbox.github.io/sitemap.html.gz
+Sitemap: https://certotbox.github.io/app/sitemap.html.gz
+Sitemap: https://certotbox.github.io/assets/sitemap.html.gz
+Sitemap: https://certotbox.github.io/css/sitemap.html.gz
+Sitemap: https://certotbox.github.io/includes/sitemap.html.gz
+Sitemap: https://certotbox.github.io/item/sitemap.html.gz
+Sitemap: https://certotbox.github.io/src/sitemap.html.gz
